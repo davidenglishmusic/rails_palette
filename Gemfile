@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'chatterbot', git: 'https://github.com/davidenglishmusic/chatterbot.git'
 gem 'rmagick'
+gem 'pry'
